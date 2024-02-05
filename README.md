@@ -1,0 +1,1 @@
+# mapsruct-service
